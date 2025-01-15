@@ -1,0 +1,12 @@
+[
+  {
+    "name": "new_feature",
+    "enabled": true,
+    "percentage_rollout": 0
+  },
+  {
+    "name": "beta_feature",
+    "enabled": false,
+    "percentage_rollout": 50
+  }
+]
